@@ -24,4 +24,4 @@
 4. [Google Drive 下载地址](https://drive.google.com/file/d/1iKgxffaZauUmpt9Vc-hzAkgSwvIuWClX/view?usp=sharing)
 5. [OneDrive 下载地址](https://1drv.ms/u/s!ArtUX5uRoj_cml7h1nwia5aFpuK9?e=J94t4w)
 
-学习过程中有任何问题，请给我发邮件 yangzhongke8@gmail.com
+学习过程中有任何问题，请给我发送邮件 yangzhongke8@gmail.com
